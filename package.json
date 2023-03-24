@@ -16,10 +16,13 @@
     "@emotion/styled": "latest",
     "@mui/icons-material": "latest",
     "@mui/material": "latest",
+    "dotenv": "^16.0.3",
+    "formik": "^2.2.9",
     "next": "latest",
     "prop-types": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "yup": "^1.0.2"
   },
   "devDependencies": {
     "eslint": "latest",
